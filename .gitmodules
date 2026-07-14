@@ -1,3 +1,6 @@
 [submodule "escolaTrabalhos/AndereTrabalhos"]
 	path = escolaTrabalhos/AndereTrabalhos
 	url = https://github.com/Juremo-Pinto/AndereTrabalhos
+[submodule "LPR2026"]
+	path = LPR2026
+	url = https://github.com/Juremo-Pinto/LPR2026.git
