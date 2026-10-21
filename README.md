@@ -122,11 +122,9 @@ I also enjoy games, art and music.
 
 ---
 
-## License
+This repository is more of a nothing burger but feel free to look around, learn from anything useful and judge my old code accordingly.
 
-This repository is primarily a personal learning space.
-
-Feel free to look around, learn from anything useful and judge my old code accordingly.
+Yes chat gpt made most of the description but i altered basically everything so i didnt even need to in the first place :p
 
 ```
 ```
